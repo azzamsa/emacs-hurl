@@ -1,3 +1,5 @@
+## 📢 Development has been moved to [https://github.com/Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl/tree/master/contrib/emacs)
+
 <div align="center">
   <h1>Emacs Hurl</h1>
 
